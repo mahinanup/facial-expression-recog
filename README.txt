@@ -3,13 +3,4 @@
 3.Deployed the trained model to a web interface with Flask.
 4.This model can be appplied to real-time video streams and image data.
 
-
-
-
-
-
-
-
-
-
 http://127.0.0.1:5000/
